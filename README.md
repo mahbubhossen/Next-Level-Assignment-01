@@ -87,7 +87,7 @@ TypeScript-এ তিনটি বিশেষ টাইপ আছে: any, unkn
 
 
 
-# 1. `any` — সবচেয়ে flexible কিন্তু সবচেয়ে risky টাইপ
+# 1. `any`  সবচেয়ে flexible কিন্তু সবচেয়ে risky টাইপ
 
 ```ts
 let value: any = "Hello";
